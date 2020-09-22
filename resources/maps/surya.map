@@ -1,0 +1,102 @@
+
+
+name surya Map
+
+[files]
+pic surya_pic.png
+
+[continents]
+North-America 5 #99NoColor
+South-America 2 #99NoColor
+Europe 5 #99NoColor
+Africa 3 #99NoColor
+Asia 7 #99NoColor
+Oceania 2 #99NoColor
+
+[countries]
+1 Alaska 1 99 99
+2 North-West-Territory 1 99 99
+3 Alberta 1 99 99
+4 Western-United-States 1 99 99
+5 Central-America 1 99 99
+6 Greenland 1 99 99
+7 Ontario 1 99 99
+8 Quebec 1 99 99
+9 Eastern-United-States 1 99 99
+10 Venezuela 2 99 99
+11 Peru 2 99 99
+12 Brazil 2 99 99
+13 Argentina 2 99 99
+14 Iceland 3 99 99
+15 Scandinavia 3 99 99
+16 Ukraine 3 99 99
+17 Great-Britain 3 99 99
+18 Northern-Europe 3 99 99
+19 Western-Europe 3 99 99
+20 Southern-Europe 3 99 99
+21 North-Africa 4 99 99
+22 Egypt 4 99 99
+23 Congo 4 99 99
+24 East-Africa 4 99 99
+25 South-Africa 4 99 99
+26 Madagascar 4 99 99
+27 Siberia 5 99 99
+28 Ural 5 99 99
+29 China 5 99 99
+30 Afghanistan 5 99 99
+31 Middle-East 5 99 99
+32 India 5 99 99
+33 Siam 5 99 99
+34 Yakutsk 5 99 99
+35 Irkutsk 5 99 99
+36 Mongolia 5 99 99
+37 Japan 5 99 99
+38 Kamchatka 5 99 99
+39 Indonesia 6 99 99
+40 New-Guinea 6 99 99
+41 Western-Australia 6 99 99
+42 Eastern-Australia 6 99 99
+
+[borders]
+1 2 3 38 
+2 1 3 7 6 
+3 1 2 7 4 
+4 3 7 5 9 
+5 4 9 10 
+6 2 7 8 14 
+7 2 3 4 6 8 9 
+8 6 7 9 
+9 4 5 7 8 
+10 5 11 12 
+11 10 12 13 
+12 10 11 13 21 
+13 11 12 
+14 6 17 
+15 16 18 
+16 15 28 30 31 18 20 
+17 14 18 19 
+18 15 16 17 19 20 
+19 17 18 20 21 
+20 16 18 19 21 22 31 
+21 12 19 20 22 23 24 
+22 20 21 24 31 
+23 21 24 25 
+24 21 22 23 25 26 31 
+25 23 24 26 
+26 24 25 
+27 28 29 34 35 36 
+28 16 27 29 30 
+29 27 28 30 32 33 36 
+30 16 28 29 31 32 
+31 16 22 30 32 20 24 
+32 29 30 31 33 
+33 29 32 39 
+34 27 35 38 
+35 27 34 36 38 
+36 29 35 37 38 27 
+37 36 38 
+38 1 34 35 36 37 
+39 33 41 40 
+40 39 41 42 
+41 39 40 42 
+42 40 41 

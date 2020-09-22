@@ -1,0 +1,17 @@
+
+
+name charanteja Map
+
+[files]
+pic charanteja_pic.png
+
+[continents]
+Asia 15
+
+[countries]
+1 Bangladesh 1
+2 SriLanka 1
+
+[borders]
+1 2 
+2 1 

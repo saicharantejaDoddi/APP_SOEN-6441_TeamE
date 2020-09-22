@@ -1,0 +1,15 @@
+[Map]
+author=Team 7
+image=Valid1Conquest.bmp
+wrap=yes
+scroll=none
+warn=yes
+
+[continents]
+azio=5
+ameroki=10
+
+[Territories]
+siberia,100,100,azio,worrick,yazteck
+worrick,100,100,ameroki,siberia
+yazteck,100,100,azio,siberia
